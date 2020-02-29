@@ -1,2 +1,2 @@
-# Employee-Directory2
-Employee-Directory2
+# Clicky Game
+Clicky Game
